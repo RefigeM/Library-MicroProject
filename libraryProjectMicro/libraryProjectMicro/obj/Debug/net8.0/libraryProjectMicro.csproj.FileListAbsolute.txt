@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\bin\Debug\net8.0\libraryProjectMicro.exe
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\bin\Debug\net8.0\libraryProjectMicro.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\bin\Debug\net8.0\libraryProjectMicro.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\bin\Debug\net8.0\libraryProjectMicro.dll
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\bin\Debug\net8.0\libraryProjectMicro.pdb
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryP.87EF7CB1.Up2Date
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.dll
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\refint\libraryProjectMicro.dll
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.pdb
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\libraryProjectMicro.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\libraryProjectMicro\libraryProjectMicro\obj\Debug\net8.0\ref\libraryProjectMicro.dll
